@@ -7,6 +7,7 @@ try:
     for rar_file in rar_files:
         patoolib.extract_archive(rar_file)
 
+    # Depois de descompactar todos os arquivos RAR, agora você pode procurar os arquivos CSV
     csv_files = [file for file in os.listdir() if file.endswith(".csv")]
 
 except Exception as e:
