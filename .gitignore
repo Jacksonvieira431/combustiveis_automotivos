@@ -1,0 +1,32 @@
+# Arquivos gerados automaticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos do ambiente virtual Python (se você usar virtualenv ou venv)
+venv/
+*.venv/
+.env
+
+# Arquivos de dados e saída gerados pelo Jupyter Notebook ou IDE
+.ipynb_checkpoints/
+*.csv
+*.xls
+*.xlsx
+*.db
+*.sqlite
+*.dat
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Arquivos sensíveis
+config.ini
+secrets.json
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
