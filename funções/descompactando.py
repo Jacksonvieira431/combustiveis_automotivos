@@ -4,9 +4,9 @@ import pandas as pd
 from tqdm.auto import tqdm
 
 
-Diretorio_local = "C:/Users/jacks/OneDrive/Projetos/combustiveis_automotivos"
 
-def descompactando(Diretorio_local):
+def descompactando():
+    Diretorio_local = "C:/Users/jacks/OneDrive/Projetos/combustiveis_automotivos"
     rar_file = f"{Diretorio_local}/Combustíveis Automotivos-2012-a-2022.rar"
 
     dest_dir = f"{Diretorio_local}/arquivos-extraidos/"
