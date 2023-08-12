@@ -2,9 +2,11 @@ import pandas as pd
 import random
 
 
-def gerar_amostra():
+def gerar_amostra(tamanho_amostra: int):
     Diretorio_local = "C:/Users/jacks/OneDrive/Projetos/combustiveis_automotivos"
     arquivo_csv = f"{Diretorio_local}/combustiveis.csv"
+
+    percent = tamanho_amostra / 100
 
     encodings_to_try = ["utf-8", "latin-1", "ISO-8859-1"]
     combustiveis_automotivos_df = None  # Inicializa a variável
@@ -20,7 +22,12 @@ def gerar_amostra():
         raise ValueError("Não foi possível ler o arquivo CSV com nenhum dos encodings.")
 
     random.seed(42)
-    sample_size = int(len(combustiveis_automotivos_df) * 0.15)
-    reduced_df = combustiveis_automotivos_df.sample(n=sample_size)
+    sample_size = int(len(combustiveis_automotivos_df) * percent)
+    reduced_df = combustiveis_automotivos_df.sample(
+        n=sample_size,
+    )
+
+    reduced_df['Data da Coleta'] = pd.to_datetime(reduced_df['Data da Coleta'], format='%d/%m/%Y')
     reduced_df = reduced_df.set_index("Data da Coleta")
+
     return reduced_df
