@@ -1,0 +1,1 @@
+diretorio_local = "C:/Users/jacks/OneDrive/Projetos/combustiveis_automotivos"

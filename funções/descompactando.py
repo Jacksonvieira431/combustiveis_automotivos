@@ -2,14 +2,14 @@ import os
 import patoolib
 import pandas as pd
 from tqdm.auto import tqdm
+from funções.diretorio_local import diretorio_local
 
 
 
-def descompactando():
-    Diretorio_local = "C:/Users/jacks/OneDrive/Projetos/combustiveis_automotivos"
-    rar_file = f"{Diretorio_local}/Combustíveis Automotivos-2012-a-2022.rar"
+def descompactando(diretorio_local):
+    rar_file = f"{diretorio_local}/Combustíveis Automotivos-2012-a-2022.rar"
 
-    dest_dir = f"{Diretorio_local}/arquivos-extraidos/"
+    dest_dir = f"{diretorio_local}/arquivos-extraidos/"
 
     if not os.path.isfile(rar_file):
         print(f"Arquivo não encontrado: {rar_file}")
@@ -62,5 +62,5 @@ def descompactando():
             print(f"Erro ao ler e processar arquivo {csv_path}: {e}")
 
     combustiveis_automotivos_df = pd.concat(dataframes, ignore_index=True)
-    combustiveis_automotivos_df.to_csv(f"{Diretorio_local}/combustiveis.csv", index=False, encoding='utf-8')
+    combustiveis_automotivos_df.to_csv(f"{diretorio_local}/combustiveis.csv", index=False, encoding='utf-8')
 
