@@ -5,7 +5,7 @@ __pycache__/
 *.pyd
 
 # Arquivos do ambiente virtual Python (se você usar virtualenv ou venv)
-venv/
+venv
 *.venv/
 .env
 
