@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="426a46cf-62e0-4abe-95aa-1eed62725630" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/1_Limpeza_e_Checagem.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_Limpeza_e_Checagem.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_series_temporais.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_series_temporais.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Machine_Leaning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.cython-30.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.cython-30.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_globals.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_globals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_pyinstaller/hook-numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_pyinstaller/hook-numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_add_docstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_add_docstring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_array_like.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_array_like.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_callable.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_callable.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_dtype_like.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_dtype_like.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_extended_precision.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_extended_precision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_nested_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_nested_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_scalars.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_scalars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_typing/_shape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_array_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_array_object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_data_type_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_data_type_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_dtypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_dtypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_elementwise_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_elementwise_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_manipulation_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_manipulation_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_searching_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_searching_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_sorting_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_sorting_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_statistical_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_statistical_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_typing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/_typing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/linalg.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/linalg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/tests/test_array_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/tests/test_array_object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/tests/test_data_type_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/tests/test_data_type_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/tests/test_elementwise_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/array_api/tests/test_elementwise_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/compat/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/compat/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/compat/py3k.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/compat/py3k.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/compat/tests/test_compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/compat/tests/test_compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_add_newdocs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_add_newdocs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_add_newdocs_scalars.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_add_newdocs_scalars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_asarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_asarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_asarray.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_asarray.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_dtype.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_dtype.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_internal.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_internal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_machar.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_machar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_multiarray_tests.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_multiarray_tests.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_multiarray_umath.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_multiarray_umath.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_operand_flag_tests.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_operand_flag_tests.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_rational_tests.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_rational_tests.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_simd.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_simd.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_string_helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_string_helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_struct_ufunc_tests.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_struct_ufunc_tests.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_type_aliases.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_type_aliases.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_ufunc_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_ufunc_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_umath_tests.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_umath_tests.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/arrayprint.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/arrayprint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/defchararray.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/defchararray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/einsumfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/einsumfunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/einsumfunc.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/einsumfunc.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/fromnumeric.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/fromnumeric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/fromnumeric.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/fromnumeric.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/function_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/function_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/generate_numpy_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/generate_numpy_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/getlimits.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/getlimits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/__multiarray_api.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/__multiarray_api.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/__ufunc_api.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/__ufunc_api.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/_neighborhood_iterator_imp.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/_neighborhood_iterator_imp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/_numpyconfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/_numpyconfig.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/arrayscalars.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/arrayscalars.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/experimental_dtype_api.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/experimental_dtype_api.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/ndarrayobject.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/ndarrayobject.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/ndarraytypes.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/ndarraytypes.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_3kcompat.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_3kcompat.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_common.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_common.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_cpu.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_cpu.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_math.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/npy_math.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/numpyconfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/numpyconfig.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/random/distributions.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/random/distributions.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/ufuncobject.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/include/numpy/ufuncobject.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/lib/npymath.lib" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/lib/npymath.lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/memmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/memmap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/multiarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/multiarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/multiarray.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/multiarray.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/numeric.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/numeric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/numerictypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/numerictypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/numerictypes.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/numerictypes.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/overrides.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/overrides.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/records.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/records.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/setup_common.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/setup_common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/shape_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/shape_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/data/generate_umath_validation_data.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/data/generate_umath_validation_data.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/data/umath-validation-set-cos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/data/umath-validation-set-cos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/data/umath-validation-set-sin.csv" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/data/umath-validation-set-sin.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_argparse.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_argparse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_array_coercion.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_array_coercion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_arraymethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_arraymethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_arrayprint.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_arrayprint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_cpu_features.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_cpu_features.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_custom_dtypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_custom_dtypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_cython.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_cython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_defchararray.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_defchararray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_deprecations.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_deprecations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_dlpack.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_dlpack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_dtype.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_dtype.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_einsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_einsum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_function_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_function_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_getlimits.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_getlimits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_indexing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_item_selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_item_selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_longdouble.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_longdouble.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_mem_overlap.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_mem_overlap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_mem_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_mem_policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_memmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_memmap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_multiarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_multiarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_nditer.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_nditer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_nep50_promotions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_nep50_promotions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_numeric.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_numeric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_numerictypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_numerictypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_overrides.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_overrides.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalar_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalar_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalarbuffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalarbuffer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalarinherit.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalarinherit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalarmath.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalarmath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalarprint.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_scalarprint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_shape_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_shape_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_simd.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_simd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_ufunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_ufunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_umath.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_umath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_unicode.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/tests/test_unicode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ctypeslib.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ctypeslib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ctypeslib.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ctypeslib.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/ccompiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/ccompiler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/ccompiler_opt.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/ccompiler_opt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_clib.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_clib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_ext.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_ext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_src.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_src.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/absoft.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/absoft.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/ibm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/ibm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/mingw32ccompiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/mingw32ccompiler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/misc_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/misc_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/system_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/system_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/test_ccompiler_opt.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/test_ccompiler_opt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/test_system_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/tests/test_system_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/capi_maps.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/capi_maps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/cfuncs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/cfuncs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/crackfortran.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/crackfortran.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/diagnose.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/diagnose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/f90mod_rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/f90mod_rules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/func2subr.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/func2subr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/symbolic.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/symbolic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_character.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_character.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_crackfortran.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_crackfortran.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_f2py2e.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_f2py2e.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_kind.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/test_kind.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/f2py/tests/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/_pocketfft_internal.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/_pocketfft_internal.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/_datasource.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/_datasource.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/_iotools.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/_iotools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/arraypad.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/arraypad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/format.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/function_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/function_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/histograms.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/histograms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/index_tricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/index_tricks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/index_tricks.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/index_tricks.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/mixins.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/mixins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/nanfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/nanfunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/npyio.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/npyio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/npyio.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/npyio.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/polynomial.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/polynomial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/recfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/recfunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/shape_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/shape_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_arraypad.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_arraypad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_function_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_function_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_histograms.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_histograms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_io.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_loadtxt.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_loadtxt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_nanfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_nanfunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_recfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_recfunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_shape_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_shape_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_twodim_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_twodim_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_type_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_type_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_ufunclike.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_ufunclike.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/tests/test_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/twodim_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/twodim_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/type_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/type_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/ufunclike.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/ufunclike.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/_umath_linalg.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/_umath_linalg.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/lapack_lite.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/lapack_lite.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/linalg.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/linalg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/linalg.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/linalg.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/tests/test_linalg.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/tests/test_linalg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/tests/test_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/tests/test_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/__init__.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/__init__.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/core.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/core.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/extras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_extras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_old_ma.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_old_ma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_subclassing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/tests/test_subclassing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/testutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/ma/testutils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/defmatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/defmatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/_polybase.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/_polybase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/chebyshev.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/chebyshev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/hermite.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/hermite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/hermite_e.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/hermite_e.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/laguerre.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/laguerre.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/legendre.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/legendre.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/polynomial.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/polynomial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_bounded_integers.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_bounded_integers.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_common.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_common.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_common.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_common.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_examples/cffi/parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_examples/cffi/parse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_generator.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_generator.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_generator.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_generator.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_mt19937.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_mt19937.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_pcg64.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_pcg64.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_philox.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_philox.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_sfc64.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/_sfc64.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/bit_generator.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/bit_generator.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/bit_generator.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/bit_generator.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/c_distributions.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/c_distributions.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/lib/npyrandom.lib" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/lib/npyrandom.lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/mtrand.cp311-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/mtrand.cp311-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_direct.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_direct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_extending.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_extending.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_generator_mt19937.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_generator_mt19937.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_generator_mt19937_regressions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_generator_mt19937_regressions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_randomstate.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/tests/test_randomstate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/__init__.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/__init__.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/_private/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/_private/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/tests/test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/testing/tests/test_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/tests/test_public_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/tests/test_public_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/fail/einsumfunc.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/fail/einsumfunc.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/fail/numerictypes.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/fail/numerictypes.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/pass/dtype.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/pass/dtype.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/pass/ndarray_misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/pass/numerictypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/pass/numerictypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/pass/simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/pass/simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/dtype.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/dtype.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/einsumfunc.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/einsumfunc.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/linalg.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/linalg.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/modules.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/modules.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/npyio.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/npyio.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/numerictypes.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/numerictypes.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/scalars.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/scalars.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/testing.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/data/reveal/testing.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/test_runtime.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/test_runtime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/test_typing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/typing/tests/test_typing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/f2py.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/f2py.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2U5OJLV6Nu3Y9bEVrS6IMftFE2Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/jacks/OneDrive/Projetos/combustiveis_automotivos"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="426a46cf-62e0-4abe-95aa-1eed62725630" name="Changes" comment="" />
+      <created>1692225902642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692225902642</updated>
+    </task>
+    <servers />
+  </component>
+</project>
