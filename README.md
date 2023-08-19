@@ -1,8 +1,10 @@
 # Previsão de Preço da Gasolina - Combustíveis Automotivos (2012-2022)
 
+Caso tenha interesse em colaborar ou obter mais informações, sinta-se à vontade para entrar em [contato comigo pelo LinkedIn](https://www.linkedin.com/in/jackson-vieira/).
+
 ## Descrição do Projeto
 
-Este projeto em desenvolvimento tem como objetivo realizar a previsão do preço da gasolina para o período de 2012 a 2022. Utilizamos um conjunto de dados contendo informações sobre os combustíveis automotivos coletados ao longo desses anos. Os dados são provenientes do governo brasileiro e foram obtidos no site dados.gov.br.
+Este projeto foi finalizado em sua fase atual e teve como objetivo realizar a previsão do preço da gasolina para o período de 2012 a 2022. Utilizamos um conjunto de dados contendo informações sobre os combustíveis automotivos coletados ao longo desses anos. Os dados são provenientes do governo brasileiro e foram obtidos no site dados.gov.br.
 
 ## Sobre os Dados
 
@@ -17,9 +19,10 @@ Os dados utilizados contêm as seguintes colunas:
 - Unidade de Medida: Unidade de medida utilizada para o preço do combustível.
 - Bandeira: Bandeira da revenda de combustível.
 
+
 ## Objetivo
 
-O objetivo principal deste projeto é analisar os dados históricos de preços da gasolina e, com base nessa análise, desenvolver um modelo de previsão que permita estimar o preço futuro da gasolina. Isso pode ser útil para diversas aplicações, como planejamento financeiro, análise de mercado e tomada de decisões estratégicas.
+O objetivo principal deste projeto foi analisar os dados históricos de preços da gasolina e, com base nessa análise, desenvolver um modelo de previsão que permita estimar o preço futuro da gasolina. Isso pode ser útil para diversas aplicações, como planejamento financeiro, análise de mercado e tomada de decisões estratégicas.
 
 ## Metodologia
 
@@ -47,6 +50,7 @@ Este gráfico apresenta a distribuição do valor de venda por região, destacan
 
 Nessa visualização, exploramos a distribuição das bandeiras de combustível específicas e suas participações nas vendas totais.
 
-## Contribuições
+## Conclusão
 
-Este projeto encontra-se em fase de desenvolvimento e toda contribuição é muito bem-vinda. Caso tenha interesse em colaborar, sinta-se à vontade para abrir uma issue, realizar um pull request ou entrar em contato com a equipe responsável.
+Por enquanto, esta fase do projeto foi finalizada, atingindo os objetivos propostos de análise e previsão dos preços da gasolina. No entanto, esta jornada está longe de terminar. Pretendo continuar refinando a análise, explorando novas técnicas e incorporando mais dados conforme a evolução do projeto. Novas contribuições e aprimoramentos são bem-vindos para enriquecer ainda mais o trabalho realizado até o momento. Caso tenha interesse em colaborar ou obter mais informações, sinta-se à vontade para entrar em [contato comigo pelo LinkedIn](https://www.linkedin.com/in/jackson-vieira/).
+
