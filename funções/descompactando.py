@@ -1,7 +1,7 @@
 import os
 import patoolib
 import pandas as pd
-from tqdm.auto import tqdm
+from .autonotebooks import tqdm
 from funções.diretorio_local import diretorio_local
 
 
