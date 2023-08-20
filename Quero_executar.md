@@ -2,8 +2,7 @@
 
 ## Passo 1: Clonar o Repositório
 
-Antes de tudo, clone o repositório em seu computador utilizando o seguinte comando:
-    - git clone "url"
+Antes de tudo, clone o repositório em seu computador utilizando o seguinte comando: git clone "url"
 
 ## Passo 2: Preparar o Ambiente
 
@@ -44,4 +43,3 @@ Ao longo das execuções, diversos arquivos serão gerados em pastas específica
 Além disso, um arquivo completo chamado "combustiveis.csv" será gerado.
 
 Agora você está pronto para explorar o projeto. Boa leitura!
-
